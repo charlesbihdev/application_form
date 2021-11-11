@@ -1,0 +1,29 @@
+body{
+    background-color: #f9fad2;
+    font-family: -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto, Ubuntu;
+    font-size: large;
+    
+}
+
+#container {
+    background-color: white;
+    border: 1px solid darkgray;
+    border-radius: 8px;
+    margin: 25px 125px;
+}
+
+#main-container {
+    margin: 45px 30px;
+}
+
+.select-opt {
+    margin-top: 10px;
+}
+.file-upload-label{
+    cursor: pointer;
+    background: red;
+    color: white;
+}
+#file-upload{
+    display: none;
+}
